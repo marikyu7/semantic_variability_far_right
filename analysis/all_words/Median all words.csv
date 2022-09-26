@@ -1,0 +1,21 @@
+Semantic Distance;;;;
+Test kind;;Word frequency;"Semantic difference
+(median)";Effect size
+Users’ posts distance from neutral text;Stormfront;28 (26-29);0.066 (0.062-0.069);0.199 (0.186-0.212)
+;Reddit;3 (3-3);0.012 (0.011-0.013);
+Intra forum variability;Stormfront;61 (60-62);0.113 (0.111-0.115);0.144 (0.14-0.146)
+;Reddit;4 (4-4);0.014 (0.013-0.014);
+Intra & Inter forums variability;Inter-group;31 (31-32);0.077 (0.076-0.079);0.164 (0.16-0.17)
+;Stormfront;60 (59-61);0.112 (0.11-0.113);
+;Reddit;5 (5-6);0.02 (0.019-0.02);
+;;;;
+Neighbourhood Overlap;;;;
+Test kind;;Word frequency;"Semantic difference
+(median)";Effect size
+Users’ posts distance from neutral text;Stormfront;28 (26-29);0.782 (0.776-0.788);0.222 (0.208-0.236)
+;Reddit;3 (3-3);0.55 (0.534-0.563);
+Intra forum variability;Stormfront;61 (60-62);0.782 (0.78-0.784);0.165 (0.162-0.168)
+;Reddit;4 (4-4);0.511 (0.508-0.517);
+Intra & Inter forums variability;Inter-group;31 (31-32);0.802 (0.8-0.803);0.174 (0.17-0.18)
+;Stormfront;60 (59-61);0.78 (0.779-0.782);
+;Reddit;5 (5-6);0.571 (0.567-0.575);

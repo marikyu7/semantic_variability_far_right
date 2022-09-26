@@ -1,0 +1,19 @@
+Semantic distance;;;
+;Users’ posts distance from neutral text;Intra forum variability;Intra & Inter forums variability
+Intercept;0.02 (0.019-0.021) ***;0.021 (0.021-0.021) ***;0.054 (0.054-0.055) ***
+Reddit;-----;-----;0.481 (0.474-0.488) ***
+Stormfront;2.328 (2.212-2.452) ***;3.22 (3.171-3.269) ***;1.232 (1.218-1.246) ***
+Word Frequency;1.009 (1.009-1.009) ***;1.025 (1.024-1.027) ***;1.02 (1.02-1.021) ***
+RC * Word Frequency;-----;-----;1.009 (1.009-1.01) ***
+Sf * Word Frequency;0.986 (0.984-0.987) ***;0.986 (0.986-0.986) ***;0.998 (0.998-0.998) ***
+Pseudo R2;650;726;647
+;;;
+Neighbourhood Overlap;;;
+;Users’ posts distance from neutral text;Intra forum variability;Intra & Inter forums variability
+Intercept;0.776 (0.754-0.799) ***;0.656 (0.651-0.661) ***;1.782 (1.773-1.792) ***
+Reddit;-----;-----;0.501 (0.496-0.505) ***
+Stormfront;2.082 (1.999-2.169) ***;2.579 (2.547-2.611) ***;0.966 (0.957-0.976) ***
+Word Frequency;1.011 (1.011-1.011) ***;1.042 (1.04-1.043) ***;1.023 (1.023-1.024) ***
+RC * Word Frequency;-----;-----;1.007 (1.007-1.008) ***
+Sf * Word Frequency;0.972 (0.971-0.974) ***;0.983 (0.982-0.983) ***;0.995 (0.995-0.995) ***
+Pseudo R2;590;651;637
